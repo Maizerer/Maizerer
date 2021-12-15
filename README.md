@@ -1,14 +1,14 @@
 # Welcome 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HamasakiBrain&theme=algolia&margin-w=0)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maizerer&theme=algolia&margin-w=0)](#)
 <br>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=HamasakiBrain&theme=algolia&show_icons=true&hide_border=true&count_private=true)](#)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maizerer&theme=algolia&show_icons=true&hide_border=true&count_private=true)](#)
 <br>
-[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=HamasakiBrain&theme=algolia&hide_border=true)](#)
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Maizerer&theme=algolia&hide_border=true)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamasakiBrain&theme=algolia&show_icons=true&hide_border=true&layout=compact&langs_count=50)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maizerer&theme=algolia&show_icons=true&hide_border=true&layout=compact&langs_count=50)](#)
 <br>
-[![Profile views](https://gpvc.arturio.dev/HamasakiBrain)](#)<br>
+[![Profile views](https://gpvc.arturio.dev/Maizerer)](#)<br>
 <!--
 **HamasakiBrain/HamasakiBrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
