@@ -38,6 +38,7 @@ I build web applications and digital products with a focus on clean architecture
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![Effector](https://img.shields.io/badge/Effector-333333?style=flat)
+[![Feature-Sliced Design](https://img.shields.io/badge/Feature--Sliced%20Design-FSD-8B5CF6)](https://feature-sliced.design/)
 
 **Backend & Tools**
 
